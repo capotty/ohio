@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.27.0 - 03-02-2025 */
+/*! elementor-pro - v3.26.0 - 07-01-2025 */
 "use strict";
 (self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["elements-handlers"],{
 
@@ -320,7 +320,7 @@ class ModalKeyboardHandler {
     }
   }
   setFocusToElement(element) {
-    const focusDelayToEnsureThatAllAnimationsHaveFinished = 'popup' === this.config.modalType ? 250 : 100;
+    const focusDelayToEnsureThatAllAnimationsHaveFinished = 100;
     setTimeout(() => {
       element?.focus();
     }, focusDelayToEnsureThatAllAnimationsHaveFinished);
@@ -836,10 +836,14 @@ class BaseFilterFrontendModule extends elementorModules.Module {
   fetchUpdatedLoopWidgetMarkup(widgetId, filterId) {
     return fetch(`${elementorProFrontend.config.urls.rest}elementor-pro/v1/refresh-loop`, this.getFetchArgumentsForLoopUpdate(widgetId, filterId));
   }
-  createFragmentFromHTMLString(htmlString) {
-    const template = document.createElement('template');
-    template.innerHTML = htmlString.trim();
-    return template.content;
+  createElementFromHTMLString(widgetContainerHTMLString) {
+    const div = document.createElement('div');
+    if (!widgetContainerHTMLString) {
+      div.classList.add('elementor-widget-container');
+      return div;
+    }
+    div.innerHTML = widgetContainerHTMLString.trim();
+    return div.firstElementChild;
   }
   refreshLoopWidget(widgetId, filterId) {
     this.loopWidgetsStore.consolidateFilters(widgetId);
@@ -863,16 +867,10 @@ class BaseFilterFrontendModule extends elementorModules.Module {
       if (!response?.data && '' !== response?.data) {
         return;
       }
-      const newWidgetFragment = this.createFragmentFromHTMLString(response.data);
-      const newNodes = Array.from(newWidgetFragment.children);
-      newNodes.forEach(newNode => {
-        const selector = newNode.className ? `.${newNode.className.split(' ').join('.')}` : `#${newNode.id}`;
-        const existingNode = widget.querySelector(selector);
-        if (existingNode) {
-          existingNode.parentNode.replaceChild(newNode, existingNode);
-        }
-      });
-      this.handleElementHandlers(widget);
+      const existingWidgetContainer = widget.querySelector('.elementor-widget-container'),
+        newWidgetContainer = this.createElementFromHTMLString(response.data);
+      widget.replaceChild(newWidgetContainer, existingWidgetContainer);
+      this.handleElementHandlers(newWidgetContainer);
       if (ElementorProFrontendConfig.settings.lazy_load_background_images) {
         document.dispatchEvent(new Event('elementor/lazyload/observe'));
       }
