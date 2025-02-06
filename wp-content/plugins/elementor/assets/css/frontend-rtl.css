@@ -1,4 +1,4 @@
-/*! elementor - v3.27.0 - 03-02-2025 */
+/*! elementor - v3.26.0 - 15-01-2025 */
 .elementor-hidden {
   display: none;
 }
@@ -105,7 +105,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.elementor .elementor-background-video-hosted {
+.elementor .elementor-html5-video {
   -o-object-fit: cover;
      object-fit: cover;
 }
