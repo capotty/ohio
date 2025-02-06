@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Locations Sitemap - wordpress-1408419-5237641.cloudwaysapps.com</title>
+						<title>Locations Sitemap - Ohio Steel Boxes</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML Sitemap - wordpress-1408419-5237641.cloudwaysapps.com</title>
+						<title>XML Sitemap - Ohio Steel Boxes</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />

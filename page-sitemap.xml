@@ -2,135 +2,131 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-06T18:54:20+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/40-ft-container-1-1024x580.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/20-ft-containers-1-1024x580.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/11/20-ft-containers-1-1024x580.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/10-ft-container-1-1024x780.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/11/10-ft-container-1-1024x780.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/53-ft-containers-1-1024x567.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/11/53-ft-containers-1-1024x567.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/45-ft-container-1024x724.webp</image:loc>
+			<image:loc>/wp-content/uploads/2024/11/45-ft-container-1024x724.webp</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/canton/</loc>
+		<lastmod>2025-02-06T04:20:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/youngstown/</loc>
+		<lastmod>2025-02-06T04:20:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/akron/</loc>
+		<lastmod>2025-02-06T04:20:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/dayton/</loc>
+		<lastmod>2025-02-06T04:20:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/parma/</loc>
+		<lastmod>2025-02-06T04:20:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/cincinnati/</loc>
+		<lastmod>2025-02-06T04:20:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/toledo/</loc>
+		<lastmod>2025-02-06T04:20:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/cleveland/</loc>
+		<lastmod>2025-02-06T04:20:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/mentor/</loc>
+		<lastmod>2025-02-06T04:20:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/beavercreek/</loc>
+		<lastmod>2025-02-06T04:20:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/middletown/</loc>
+		<lastmod>2025-02-06T04:20:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/lima/</loc>
+		<lastmod>2025-02-06T04:20:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/newark/</loc>
+		<lastmod>2025-02-06T04:20:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/elyria/</loc>
+		<lastmod>2025-02-06T04:20:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/cuyahoga-falls/</loc>
+		<lastmod>2025-02-06T04:20:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/hamilton/</loc>
+		<lastmod>2025-02-06T04:20:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/springfield/</loc>
+		<lastmod>2025-02-06T04:20:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/kettering/</loc>
+		<lastmod>2025-02-06T04:20:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/columbus/</loc>
+		<lastmod>2025-02-06T04:20:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/lorain/</loc>
+		<lastmod>2025-02-06T04:20:37+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
-		<lastmod>2025-02-06T18:54:21+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city1-stateid/</loc>
-		<lastmod>2025-02-06T18:54:19+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/about-us/</loc>
-		<lastmod>2025-02-06T18:54:19+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city4-stateid/</loc>
-		<lastmod>2025-02-06T18:54:18+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city2-stateid/</loc>
-		<lastmod>2025-02-06T18:54:18+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city3-stateid/</loc>
-		<lastmod>2025-02-06T18:54:17+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city7-stateid/</loc>
-		<lastmod>2025-02-06T18:54:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city5-stateid/</loc>
-		<lastmod>2025-02-06T18:54:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city8-stateid/</loc>
-		<lastmod>2025-02-06T18:54:15+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city6-stateid/</loc>
-		<lastmod>2025-02-06T18:54:15+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city10-stateid/</loc>
-		<lastmod>2025-02-06T18:54:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city12-stateid/</loc>
-		<lastmod>2025-02-06T18:54:13+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city9-stateid/</loc>
-		<lastmod>2025-02-06T18:54:13+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city13-stateid/</loc>
-		<lastmod>2025-02-06T18:54:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city11-stateid/</loc>
-		<lastmod>2025-02-06T18:54:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city15-stateid/</loc>
-		<lastmod>2025-02-06T18:54:11+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city14-stateid/</loc>
-		<lastmod>2025-02-06T18:54:11+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city17-stateid/</loc>
-		<lastmod>2025-02-06T18:54:10+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city16-stateid/</loc>
-		<lastmod>2025-02-06T18:54:09+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city18-stateid/</loc>
-		<lastmod>2025-02-06T18:54:09+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city19-stateid/</loc>
-		<lastmod>2025-02-06T18:54:08+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/shipping-containers-for-sale-in-city20-stateid/</loc>
-		<lastmod>2025-02-06T18:54:08+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/thank-you/</loc>
-		<lastmod>2025-02-06T18:54:07+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/cropped-ph-shipping-container-duotone.png</image:loc>
-		</image:image>
+		<lastmod>2025-02-05T22:32:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/find-a-container/</loc>
-		<lastmod>2025-02-06T18:54:07+00:00</lastmod>
+		<lastmod>2025-02-05T22:17:26+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/cropped-ph-shipping-container-duotone.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/11/cropped-ph-shipping-container-duotone.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/privacy-policy-2/</loc>
-		<lastmod>2025-02-06T18:54:04+00:00</lastmod>
+		<loc>/about/</loc>
+		<lastmod>2025-02-05T22:04:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/sample-page/</loc>
-		<lastmod>2025-02-06T18:44:34+00:00</lastmod>
+		<loc>/privacy-policy/</loc>
+		<lastmod>2025-02-05T22:00:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/thank-you/</loc>
+		<lastmod>2025-02-05T21:59:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/11/cropped-ph-shipping-container-duotone.png</image:loc>
+		</image:image>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Rank Math SEO Plugin (c) Rank Math - rankmath.com -->
