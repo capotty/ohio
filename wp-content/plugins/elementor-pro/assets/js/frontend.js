@@ -1,4 +1,4 @@
-/*! elementor-pro - v3.27.0 - 03-02-2025 */
+/*! elementor-pro - v3.26.0 - 07-01-2025 */
 (self["webpackChunkelementor_pro"] = self["webpackChunkelementor_pro"] || []).push([["frontend"],{
 
 /***/ "../assets/dev/js/frontend/frontend.js":
@@ -1446,9 +1446,9 @@ exports.isScrollSnapActive = isScrollSnapActive;
   \***********************************************************************/
 /***/ ((module) => {
 
-function _interopRequireDefault(e) {
-  return e && e.__esModule ? e : {
-    "default": e
+function _interopRequireDefault(obj) {
+  return obj && obj.__esModule ? obj : {
+    "default": obj
   };
 }
 module.exports = _interopRequireDefault, module.exports.__esModule = true, module.exports["default"] = module.exports;
