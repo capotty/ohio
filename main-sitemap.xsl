@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Locations Sitemap - Ohio Steel Boxes</title>
+						<title>Locations Sitemap - Missouri Containers</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML Sitemap - Ohio Steel Boxes</title>
+						<title>XML Sitemap - Missouri Containers</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
